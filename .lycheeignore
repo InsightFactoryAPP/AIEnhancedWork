@@ -1,0 +1,8 @@
+# URLs excluded from the automated link check (lychee reads this file
+# automatically). Use only for links that are reachable in a browser but that
+# the strict checker rejects — not for genuinely dead links, which should be
+# fixed or removed instead. Patterns are regular expressions.
+
+# groupt.ai serves an incomplete TLS certificate chain: browsers accept it, but
+# lychee's strict TLS validation does not. The site itself is reachable.
+groupt\.ai
