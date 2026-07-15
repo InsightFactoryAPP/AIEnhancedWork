@@ -1,4 +1,4 @@
-<!-- last-reviewed: 2026-06 -->
+<!-- last-reviewed: 2026-07 -->
 <div align="center">
 
 <img src="../Images/AIEnhancedWork.png">
@@ -99,7 +99,7 @@ continuously updated leaderboard:
 |:---|:---|:---:|:---:|
 | [Audioread](https://audioread.com/) | Converts text and articles into speech. | [<img src="../Images/Licence/proprietary.svg" alt="proprietary" width="90" height="15" />](https://www.heavybit.com/library/article/open-source-vs-proprietary) | <img src="../Images/Pricing/Paid.svg" alt="Paid" width="80" height="20" /> |
 | [Bark](https://github.com/suno-ai/bark) | A text-to-audio model from Suno based on a GPT-style architecture. | [<img src="../Images/Licence/opensource.svg" alt="opensource" width="90" height="25" />](https://opensource.com/resources/what-open-source) | <img src="../Images/Pricing/free.svg" alt="free" width="80" height="20" /> |
-| [Coqui](https://github.com/coqui-ai/TTS) | An open-source generative voice toolkit. | [<img src="../Images/Licence/opensource.svg" alt="opensource" width="90" height="25" />](https://opensource.com/resources/what-open-source) | <img src="../Images/Pricing/free.svg" alt="free" width="80" height="20" /> |
+| [Coqui TTS](https://github.com/idiap/coqui-ai-TTS) | A community-maintained fork of the Coqui open-source voice toolkit. | [<img src="../Images/Licence/opensource.svg" alt="opensource" width="90" height="25" />](https://opensource.com/resources/what-open-source) | <img src="../Images/Pricing/free.svg" alt="free" width="80" height="20" /> |
 | [Eleven Labs](https://elevenlabs.io/) | Proprietary text-to-speech using deep learning. | [<img src="../Images/Licence/proprietary.svg" alt="proprietary" width="90" height="15" />](https://www.heavybit.com/library/article/open-source-vs-proprietary) | [<img src="../Images/Pricing/Freemium.svg" alt="Freemium" width="80" height="20" />](https://builtin.com/articles/freemium) |
 | [Listnr](https://listnr.ai/) | An AI voice generator that converts text to speech. | [<img src="../Images/Licence/proprietary.svg" alt="proprietary" width="90" height="15" />](https://www.heavybit.com/library/article/open-source-vs-proprietary) | [<img src="../Images/Pricing/Freemium.svg" alt="Freemium" width="80" height="20" />](https://builtin.com/articles/freemium) |
 | [MeloTTS](https://github.com/myshell-ai/MeloTTS) | An open-source text-to-speech library. | [<img src="../Images/Licence/opensource.svg" alt="opensource" width="90" height="25" />](https://opensource.com/resources/what-open-source) | <img src="../Images/Pricing/free.svg" alt="free" width="80" height="20" /> |

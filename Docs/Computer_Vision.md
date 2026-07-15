@@ -1,4 +1,4 @@
-<!-- last-reviewed: 2026-06 -->
+<!-- last-reviewed: 2026-07 -->
 <div align="center">
 
 <img src="../Images/AIEnhancedWork.png">
@@ -128,7 +128,7 @@ Platforms that offer image generation as a cloud service, via a web interface or
 | [Diffusion Bee](https://diffusionbee.com/) | A free, offline image generation app for macOS. | macOS | Stable Diffusion |
 | [Draw Things](https://drawthings.ai/) | A free image generation app for macOS and iOS. | macOS / iOS | Stable Diffusion |
 | [Fooocus](https://github.com/lllyasviel/Fooocus) | An open-source tool that simplifies image generation with Stable Diffusion. | All | Stable Diffusion XL |
-| [Forge](https://github.com/lllyasviel/stable-diffusion-webui-forge) | A faster, streamlined fork of the AUTOMATIC1111 web UI. | All | Stable Diffusion + Flux.1 |
+| [Forge Neo](https://github.com/Haoming02/sd-webui-forge-classic/tree/neo) | A maintained, streamlined fork of the AUTOMATIC1111 web UI. | All | Stable Diffusion + Flux.1 |
 | [Invoke](https://github.com/invoke-ai/InvokeAI) | A creative engine and interface for Stable Diffusion models. | All | Stable Diffusion |
 | [Stable Diffusion web UI (AUTOMATIC1111)](https://github.com/AUTOMATIC1111/stable-diffusion-webui) | A widely used interface for working with Stable Diffusion models. | All | Stable Diffusion |
 | [SwarmUI](https://github.com/mcmonkeyprojects/SwarmUI) | A modular interface for multi-model and multi-GPU image generation workflows. | All | Stable Diffusion + Flux.1 |
