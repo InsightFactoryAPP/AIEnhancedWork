@@ -162,7 +162,7 @@ The table below adds the license and pricing detail the leaderboard does not cov
 
 | Organization | Model Family | Best Model | License | Pricing |
 |:---:|:---|:---|:---:|:---:|
-| [<img src="../Images/Organization/Kyutai.svg" alt="Kyutai" width="250" height="25" />](https://kyutai.org/) | [Moshi](https://moshi.chat/) | [Moshi v0.1](https://huggingface.co/kyutai/moshiko-pytorch-bf16) | [<img src="../Images/Licence/opensource.svg" alt="opensource" width="90" height="25" />](https://opensource.com/resources/what-open-source) | <img src="../Images/Pricing/free.svg" alt="free" width="80" height="20" /> |
+| [<img src="../Images/Organization/Kyutai.svg" alt="Kyutai" width="250" height="25" />](https://kyutai.org/) | [Moshi](https://github.com/kyutai-labs/moshi) | [Moshi v0.1](https://huggingface.co/kyutai/moshiko-pytorch-bf16) | [<img src="../Images/Licence/opensource.svg" alt="opensource" width="90" height="25" />](https://opensource.com/resources/what-open-source) | <img src="../Images/Pricing/free.svg" alt="free" width="80" height="20" /> |
 
 ### Voice Assistants Providers
 

@@ -6,3 +6,8 @@
 # groupt.ai serves an incomplete TLS certificate chain: browsers accept it, but
 # lychee's strict TLS validation does not. The site itself is reachable.
 groupt\.ai
+
+# platform.openai.com sits behind anti-bot protection that returns 403/404 to
+# automated checkers while serving 200 in a browser. The linked docs pages are
+# reachable normally.
+platform\.openai\.com
