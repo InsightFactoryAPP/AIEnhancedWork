@@ -11,3 +11,10 @@ groupt\.ai
 # automated checkers while serving 200 in a browser. The linked docs pages are
 # reachable normally.
 platform\.openai\.com
+
+# limecube.co serves a valid Let's Encrypt certificate that chains to a trusted
+# root in browsers, but lychee's strict TLS validation intermittently rejects it:
+# the edge sometimes returns an incomplete chain, and the cert uses Let's
+# Encrypt's newly-rotated ISRG "Root YR" that older bundled root stores may not
+# yet include. The site is reachable and secure in a browser (200).
+limecube\.co
