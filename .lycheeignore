@@ -19,6 +19,13 @@ platform\.openai\.com
 # yet include. The site is reachable and secure in a browser (200).
 limecube\.co
 
+# lexica.art serves a valid Let's Encrypt certificate but lychee's strict TLS
+# validation fails the handshake: the cert chains through Let's Encrypt's newly
+# rotated ISRG "Root YE" (cross-signed by ISRG Root X2), which older bundled root
+# stores may not yet include. The site is reachable and secure in a browser (200),
+# same class of issue as limecube.co above.
+lexica\.art
+
 # ampcode.com and gemini.google.com recurrently fail the checker with
 # "HTTP/2 protocol error" while returning 200 in a browser and over both HTTP/2
 # and HTTP/1.1 on manual re-test. This is a known incompatibility between
