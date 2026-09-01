@@ -7,10 +7,11 @@
 <br>
 
 [![License: CC0-1.0](https://img.shields.io/badge/License-CC0%201.0-lightgrey.svg?style=flat)](./LICENSE.md)
+[![Maintained with Claude Code](https://img.shields.io/badge/maintained_with-Claude_Code-D97757?logo=claude&logoColor=fff&style=flat)](https://www.anthropic.com/claude-code)
 
 <br>
 
-*This index is maintained with the help of [Claude Code](https://www.anthropic.com/claude-code) automation for link checking, content-freshness review, and curation.*
+*Link checking, content-freshness review, and curation are automated.*
 
 </div>
 
