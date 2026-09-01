@@ -33,3 +33,9 @@ lexica\.art
 # (gemini.google.com is a Google property that fully supports HTTP/2).
 ampcode\.com
 gemini\.google\.com
+
+# amazon.com/alexa intermittently returns 503 to the automated checker (Amazon's
+# anti-bot throttling, same family as the 429/999 codes already tolerated) while
+# serving 200 in a browser. Scoped to the /alexa path so the AWS docs links under
+# amazon.com are still checked.
+amazon\.com/alexa
