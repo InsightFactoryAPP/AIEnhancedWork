@@ -26,13 +26,14 @@ limecube\.co
 # same class of issue as limecube.co above.
 lexica\.art
 
-# ampcode.com and gemini.google.com recurrently fail the checker with
+# ampcode.com, gemini.google.com and krea.ai recurrently fail the checker with
 # "HTTP/2 protocol error" while returning 200 in a browser and over both HTTP/2
 # and HTTP/1.1 on manual re-test. This is a known incompatibility between
 # lychee's HTTP/2 client and these servers' HTTP/2 behaviour, not a site problem
 # (gemini.google.com is a Google property that fully supports HTTP/2).
 ampcode\.com
 gemini\.google\.com
+krea\.ai
 
 # amazon.com/alexa intermittently returns 503 to the automated checker (Amazon's
 # anti-bot throttling, same family as the 429/999 codes already tolerated) while
